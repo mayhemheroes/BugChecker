@@ -1,0 +1,5 @@
+project: bugchecker
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
